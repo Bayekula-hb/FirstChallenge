@@ -8,6 +8,7 @@ body{
     background-image: url('../Img/bible.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
+    background-position-y: -225px;
 }
 #Header{
     width: 100%;
@@ -36,6 +37,9 @@ body{
     height: auto;
     margin: auto;
     padding-left: 200px;
+    font-family: 'Andika New Basic', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
 }
 #MenuMenu{
     width: auto;
