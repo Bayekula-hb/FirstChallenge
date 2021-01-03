@@ -1,0 +1,60 @@
+html{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('../Img/bible.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#Header{
+    width: 100%;
+    margin: auto;
+    padding-top: 0.5%;
+}
+#Title{
+    float: left;
+    width: 5%;
+    height: 100%;
+    padding: 0px;margin: 0px;
+    font-family: 'Shadows Into Light', cursive;
+}
+#Menu{
+    width: 90%;
+    height: 100%;
+    margin: auto;padding: 0px;
+    font-family: 'Shadows Into Light', cursive;
+}
+#TitleSite{
+    color: white;
+    text-transform: uppercase;
+    size: 1em;
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding-left: 200px;
+}
+#MenuMenu{
+    width: auto;
+    height: auto;
+    float: right;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    letter-spacing: 2px;
+}
+a{    
+    text-decoration: none;
+    color: white;
+    size: 1em;
+    padding-right: 20px;
+}
+a:hover{    
+    text-decoration: none;
+}
+#Lien1{
+    text-transform: capitalize;
+}
