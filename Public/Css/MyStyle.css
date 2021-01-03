@@ -69,8 +69,17 @@ a:hover{
 #Download{
     background-color: transparent;
     border-style: none;
+    text-transform: uppercase;
+    color: white;
+    height: 30px;
+    border: 2px solid #fff;
+    border-left: 0.5px solid #fff;
+    text-align:center;
 }
 #Commencer{
     background-color: rgba(250, 10, 20, 1);
     border-style: none;
+    text-transform:uppercase;
+    color: white;
+    height: 30px;
 }
