@@ -13,6 +13,7 @@ body{
     width: 100%;
     margin: auto;
     padding-top: 0.5%;
+    padding-bottom: 20%;
 }
 #Title{
     float: left;
@@ -57,4 +58,19 @@ a:hover{
 }
 #Lien1{
     text-transform: capitalize;
+}
+#Corps{
+    color:white;
+    width: 75%;
+    padding:0px;
+    margin:auto;    
+    font-family: 'Shadows Into Light', cursive;
+}
+#Download{
+    background-color: transparent;
+    border-style: none;
+}
+#Commencer{
+    background-color: rgba(250, 10, 20, 1);
+    border-style: none;
 }
